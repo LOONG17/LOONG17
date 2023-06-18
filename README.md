@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LOONG17
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Lua and 
 - full time idiot
 - yes
 
