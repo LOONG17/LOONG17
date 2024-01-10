@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LOONG17
-- 👀 I’m interested in coding
-- full time idiot
-- yes
+- croatian
+- 
 
 <!---
 LOONG17/LOONG17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
