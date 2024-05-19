@@ -1,3 +1,3 @@
-making basic network shit for private use
+trying out garbage
 
 thats it really
